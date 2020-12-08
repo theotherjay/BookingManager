@@ -3,7 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30406.217
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingMgr", "BookingMgr.csproj", "{AEECE47C-5F1D-43E6-ACF5-3571F807EAF3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BookingMgr", "BookingMgr.csproj", "{AEECE47C-5F1D-43E6-ACF5-3571F807EAF3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BookingMgrTests", "..\BookingMgrTests\BookingMgrTests.csproj", "{68F6933D-7BA2-4A08-86B0-9A45FC41A1D6}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{AEECE47C-5F1D-43E6-ACF5-3571F807EAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEECE47C-5F1D-43E6-ACF5-3571F807EAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEECE47C-5F1D-43E6-ACF5-3571F807EAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68F6933D-7BA2-4A08-86B0-9A45FC41A1D6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68F6933D-7BA2-4A08-86B0-9A45FC41A1D6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68F6933D-7BA2-4A08-86B0-9A45FC41A1D6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68F6933D-7BA2-4A08-86B0-9A45FC41A1D6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
