@@ -1,0 +1,13 @@
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\bin\Debug\netcoreapp3.1\BookingMgr.exe
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\bin\Debug\netcoreapp3.1\BookingMgr.deps.json
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\bin\Debug\netcoreapp3.1\BookingMgr.runtimeconfig.json
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\bin\Debug\netcoreapp3.1\BookingMgr.runtimeconfig.dev.json
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\bin\Debug\netcoreapp3.1\BookingMgr.dll
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\bin\Debug\netcoreapp3.1\BookingMgr.pdb
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.csprojAssemblyReference.cache
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.AssemblyInfoInputs.cache
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.AssemblyInfo.cs
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.csproj.CoreCompileInputs.cache
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.dll
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.pdb
+C:\Users\jcook\Documents\GitHub\BookingManager\BookingMgr\obj\Debug\netcoreapp3.1\BookingMgr.genruntimeconfig.cache
